@@ -1,0 +1,8 @@
+phidata
+streamlit
+openai
+groq
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
